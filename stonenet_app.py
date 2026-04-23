@@ -295,11 +295,19 @@ def compute_attention(path_vecs):
     """Simple dot-product attention → softmax."""
     if not path_vecs:
         return []
+
+    # Remove None values
+    path_vecs = [p for p in path_vecs if p is not None]
+
+    # If nothing valid remains
+    if len(path_vecs) == 0:
+        return [1.0]
+
     if not TORCH_AVAILABLE:
         weights = [random.random() for _ in path_vecs]
         total   = sum(weights)
         return [w / total for w in weights]
- 
+
     stacked = torch.stack(path_vecs, 0)       # (P, D)
     query   = stacked.mean(0)                 # global mean as query
     scores  = (stacked * query).sum(-1)       # dot product
