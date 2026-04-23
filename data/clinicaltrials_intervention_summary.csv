@@ -1,0 +1,529 @@
+intervention_name_norm,intervention_name,intervention_category,num_trials,avg_enrollment,completed_trials,recruiting_trials,trials_with_results
+placebo,Placebo,DRUG,18,185.55555555555554,16,2,5
+placebo,Placebo,OTHER,5,155.0,5,0,2
+rirs,RIRS,PROCEDURE,5,150.4,5,0,0
+alln-177,ALLN-177,DRUG,4,53.0,4,0,1
+placebo,Placebo,DIETARY_SUPPLEMENT,4,81.0,3,1,1
+tamsulosin,Tamsulosin,DRUG,4,111.0,4,0,1
+minipercutaneousnephrolithotomy,Mini Percutaneous Nephrolithotomy,PROCEDURE,4,537.0,4,0,0
+retrogradeintrarenalsurgery,Retrograde intrarenal surgery,PROCEDURE,4,116.25,3,1,0
+ureteroscopy,Ureteroscopy,PROCEDURE,4,59.0,4,0,0
+ketorolac,Ketorolac,DRUG,3,74.33333333333333,3,0,3
+thuliumfibrelaser,Thulium Fibre Laser,DEVICE,3,121.33333333333333,2,1,2
+augmentedreality,Augmented reality,DEVICE,3,11.0,1,2,0
+extracorporealshockwavelithotripsy,Extracorporeal shock wave lithotripsy,PROCEDURE,3,77.33333333333333,3,0,0
+flexibleureteroscopy,Flexible Ureteroscopy,PROCEDURE,3,94.0,2,1,0
+morphine,Morphine,DRUG,3,569.6666666666666,3,0,0
+pcnl,PCNL,PROCEDURE,3,101.0,3,0,0
+retrogradeintrarenalsurgery,Retrograde Intrarenal Surgery,PROCEDURE,3,186.66666666666666,3,0,0
+swl,SWL,PROCEDURE,3,174.33333333333334,3,0,0
+cyberwand,Cyberwand,DEVICE,2,170.0,2,0,2
+holmiumyttrium-aluminum-garnet,Holmium:Yttrium-Aluminum-Garnet,DEVICE,2,95.0,2,0,2
+placebo,placebo,DRUG,2,146.0,2,0,2
+pregabalin300mg,Pregabalin 300mg,DRUG,2,64.0,2,0,2
+robotic-assistedmini-pcnl,Robotic-assisted mini-PCNL,DEVICE,2,15.0,2,0,2
+placebooraltablet,Placebo oral tablet,DRUG,2,68.5,2,0,1
+ropivacaine,Ropivacaine,DRUG,2,32.5,2,0,1
+tamsulosin,tamsulosin,DRUG,2,296.5,2,0,1
+tolvaptan,Tolvaptan,DRUG,2,12.0,2,0,1
+toradol,Toradol,DRUG,2,69.5,2,0,1
+ciprofloxacin,Ciprofloxacin,DRUG,2,906.0,2,0,0
+conventionalfans,Conventional FANS,DEVICE,2,250.0,1,1,0
+diclofenac,Diclofenac,DRUG,2,852.5,2,0,0
+lowoxalatediet,Low Oxalate Diet,DIETARY_SUPPLEMENT,2,112.0,0,2,0
+mini-pcnl,mini-PCNL,PROCEDURE,2,397.5,2,0,0
+mini-pnl,mini-PNL,PROCEDURE,2,163.5,2,0,0
+percutaneousnephrolithotomy,percutaneous nephrolithotomy,PROCEDURE,2,203.0,1,1,0
+renalof,Renalof,DIETARY_SUPPLEMENT,2,132.5,2,0,0
+rirswithoutureteralaccesssheath,RIRS without ureteral access sheath,DEVICE,2,70.0,2,0,0
+rirswithureteralaccesssheath,RIRS with ureteral access sheath,DEVICE,2,70.0,2,0,0
+sipit,sipIT,BEHAVIORAL,2,194.0,2,0,0
+surveys,Surveys,OTHER,2,488.0,0,2,0
+ultrasound,Ultrasound,DEVICE,2,105.0,2,0,0
+10mgketorolacq6prn,"10mg Ketorolac, Q6 PRN",DRUG,1,90.0,1,0,1
+125mghydrochlorothiazide,12.5 mg hydrochlorothiazide,DRUG,1,416.0,1,0,1
+250mghydrochlorothiazide,25.0 mg hydrochlorothiazide,DRUG,1,416.0,1,0,1
+500mghydrochlorothiazide,50.0 mg hydrochlorothiazide,DRUG,1,416.0,1,0,1
+5mgoxycodoneq6prn,"5mg Oxycodone, Q6 PRN",DRUG,1,90.0,1,0,1
+acetaminophen,Acetaminophen,DRUG,1,119.0,1,0,1
+agri-kingsynbioticaksb,Agri-King Synbiotic (AKSB),DIETARY_SUPPLEMENT,1,40.0,1,0,1
+allopurinol,Allopurinol,DRUG,1,99.0,1,0,1
+ampicillin,ampicillin,DRUG,1,86.0,1,0,1
+ampicillingentamicin,Ampicillin/Gentamicin,DRUG,1,98.0,1,0,1
+belladonnaandopium,Belladonna and Opium,DRUG,1,71.0,1,0,1
+bostonscientificnavigator,Boston Scientific Navigator,DEVICE,1,95.0,1,0,1
+cannabidiol,Cannabidiol,DRUG,1,90.0,1,0,1
+ceftriaxone,ceftriaxone,DRUG,1,86.0,1,0,1
+cephalosporins,cephalosporins,DRUG,1,98.0,1,0,1
+citricacid,Citric Acid,DIETARY_SUPPLEMENT,1,13.0,1,0,1
+clindamycin,Clindamycin,DRUG,1,98.0,1,0,1
+colabeverage,Cola beverage,DRUG,1,13.0,1,0,1
+conebeamct,Cone beam CT,DIAGNOSTIC_TEST,1,234.0,1,0,1
+cookflexor,Cook Flexor,DEVICE,1,95.0,1,0,1
+cystone,Cystone,DRUG,1,20.0,1,0,1
+deionizedwater,Deionized water,DRUG,1,13.0,1,0,1
+disposabledigitalureteroscope,disposable digital ureteroscope,DEVICE,1,180.0,1,0,1
+erectorspinaeplaneblockespb,Erector Spinae Plane Block (ESPB),PROCEDURE,1,5.0,1,0,1
+ergocalciferol,Ergocalciferol,DRUG,1,30.0,1,0,1
+febuxostat,Febuxostat,DRUG,1,99.0,1,0,1
+fexofenadinehcl180mgtab,Fexofenadine Hcl 180Mg Tab,DRUG,1,78.0,1,0,1
+financialincentive,Financial incentive,BEHAVIORAL,1,1658.0,1,0,1
+flowmax,Flowmax,DRUG,1,53.0,1,0,1
+fluidprescription,Fluid prescription,BEHAVIORAL,1,1658.0,1,0,1
+fluoroquinolones,Fluoroquinolones,DRUG,1,98.0,1,0,1
+gentamicin,gentamicin,DRUG,1,86.0,1,0,1
+holmiumlaserlithotripsywithmosestechnology,Holmium laser lithotripsy with Moses Technology,DEVICE,1,171.0,1,0,1
+holmiumlaserlithotripsywithoutmosestechnology,Holmium laser lithotripsy without Moses Technology,DEVICE,1,171.0,1,0,1
+holmiumlaserwithpulsemodulation,Holmium laser with pulse modulation,DEVICE,1,178.0,1,0,1
+holmiumyaglaser,Holmium:YAG laser,DEVICE,1,40.0,1,0,1
+hydration,Hydration,DRUG,1,140.0,1,0,1
+ibuprofen400milligramin1tabletoraltabletfilmcoated,"Ibuprofen 400 MILLIGRAM in 1 TABLET ORAL TABLET, FILM COATED",DRUG,1,22.0,1,0,1
+inversion,Inversion,PROCEDURE,1,140.0,1,0,1
+ketorolacoraltablettoradol,Ketorolac Oral Tablet [Toradol],DRUG,1,119.0,1,0,1
+lithoclastselect,Lithoclast Select,DEVICE,1,270.0,1,0,1
+low-oxalatecontrolleddiet,Low-oxalate controlled diet,DIETARY_SUPPLEMENT,1,23.0,1,0,1
+lumenispulse120hholmiumlasersystemand200dflballtipfiber,Lumenis Pulse 120H holmium laser system and 200 DFL ball tip fiber,DEVICE,1,20.0,1,0,1
+moderatelyhighoxalatelowcalciumdietcolonized,Moderately high oxalate/low calcium diet colonized,DIETARY_SUPPLEMENT,1,26.0,1,0,1
+moderatelyhighoxalatelowcalciumdietnon-colonized,Moderately high oxalate/low calcium diet non-colonized,DIETARY_SUPPLEMENT,1,26.0,1,0,1
+ngsantibioticrecommendation,NGS + Antibiotic Recommendation,OTHER,1,240.0,1,0,1
+nitrofurantoinmonohydratemacrocrystallinecapsules,nitrofurantoin monohydrate/macrocrystalline capsules,DRUG,1,86.0,1,0,1
+noimaging,No imaging,RADIATION,1,264.0,1,0,1
+non-siliconepolyurethanepercuflexureteralstentanymanufacturer,Non-silicone (Polyurethane/Percuflex) ureteral stent (any manufacturer),DEVICE,1,224.0,1,0,1
+norco5milligram-325milligramtablet,Norco 5milligram-325milligram Tablet,DRUG,1,22.0,1,0,1
+normalindividuals,Normal Individuals,DIETARY_SUPPLEMENT,1,58.0,1,0,1
+normalsaline,normal saline,DRUG,1,125.0,1,0,1
+novelnonopioidpathway,Novel Nonopioid Pathway,OTHER,1,30.0,1,0,1
+oxadrop,Oxadrop,DIETARY_SUPPLEMENT,1,40.0,1,0,1
+oxalobacterformigenes,Oxalobacter formigenes,DIETARY_SUPPLEMENT,1,26.0,1,0,1
+oxycodone,Oxycodone,DRUG,1,81.0,1,0,1
+oxycodoneacetaminophen,Oxycodone Acetaminophen,DRUG,1,119.0,1,0,1
+oxycodoneandacetaminophencombinationtreatment,Oxycodone and acetaminophen combination treatment,DRUG,1,84.0,1,0,1
+placebooralcapsule,Placebo oral capsule,DRUG,1,416.0,1,0,1
+placebosuppository,Placebo suppository,OTHER,1,71.0,1,0,1
+point-of-careultrasound,Point-of-care Ultrasound,OTHER,1,2776.0,1,0,1
+potassiumcitrate,Potassium Citrate,DIETARY_SUPPLEMENT,1,13.0,1,0,1
+primedcontinuousintravenousinfusionof13c2-oxalate,"Primed, continuous intravenous infusion of 13C2-oxalate",OTHER,1,23.0,1,0,1
+radiologyct,Radiology CT,OTHER,1,2776.0,1,0,1
+radiologyultrasound,Radiology Ultrasound,RADIATION,1,2776.0,1,0,1
+regularctorlowdosectscan,Regular CT or Low Dose CT scan,RADIATION,1,264.0,1,0,1
+reusablefiberopticureteroscope,reusable fiberoptic ureteroscope,DEVICE,1,180.0,1,0,1
+shockwavelithotripsy,Shock Wave Lithotripsy,PROCEDURE,1,140.0,1,0,1
+siliconecoloplastimajinhydroureteralstent,Silicone (Coloplast Imajin Hydro) ureteral stent,DEVICE,1,224.0,1,0,1
+silodosin,silodosin,DRUG,1,239.0,1,0,1
+singleprobeultrasonic,single probe ultrasonic,DEVICE,1,70.0,1,0,1
+solifenacinsuccinatetreatment,Solifenacin succinate treatment,DRUG,1,84.0,1,0,1
+standardofcaretreatment,Standard of Care treatment,PROCEDURE,1,240.0,1,0,1
+standardureteroscopybasketing,Standard Ureteroscopy (Basketing),DEVICE,1,132.0,1,0,1
+stonebreaker,Stonebreaker,DEVICE,1,270.0,1,0,1
+structuredproblemsolving,Structured Problem Solving,BEHAVIORAL,1,1658.0,1,0,1
+sugarpillplacebo,Sugar Pill (Placebo),DRUG,1,20.0,1,0,1
+sure,SURE,DEVICE,1,132.0,1,0,1
+swl-compactdeltadorniermedtech,SWL - Compact Delta Dornier Med Tech,DEVICE,1,104.0,1,0,1
+tens,TENS,DEVICE,1,41.0,1,0,1
+testmeal,Test Meal,OTHER,1,22.0,1,0,1
+theshockpulse-selithotripsysystem,The ShockPulse-SE Lithotripsy System,DEVICE,1,100.0,1,0,1
+thuliumfiberlaser,Thulium fiber laser,DEVICE,1,178.0,1,0,1
+tranexamicacid,Tranexamic acid,DRUG,1,110.0,1,0,1
+trilogylithotrite,Trilogy Lithotrite,DEVICE,1,100.0,1,0,1
+ultralowdosectscan,Ultra low dose CT scan,RADIATION,1,264.0,1,0,1
+vancomycin,vancomycin,DRUG,1,86.0,1,0,1
+0-30biplanarfluoroscopicpuncturetechniquesforpercutaneousnephrolithotomy,0-30° Biplanar Fluoroscopic Puncture Techniques for Percutaneous Nephrolithotomy,PROCEDURE,1,60.0,1,0,0
+3dimagingtechniqueonthepcnl,3D imaging technique on the PCNL,PROCEDURE,1,100.0,0,1,0
+5frureteralcatheter,5FR Ureteral Catheter,DEVICE,1,108.0,1,0,0
+abdominalscanintervention,Abdominal scan intervention,DIAGNOSTIC_TEST,1,6272.0,0,1,0
+acetylsalicylicacidbeloworequalto250mg,acetylsalicylic acid (below or equal to) 250 mg,OTHER,1,300.0,0,1,0
+activebupivacaine025viaanerectorspinaeplaneperineuralcatheter,Active bupivacaine 0.25% via an erector spinae plane perineural catheter,DRUG,1,50.0,1,0,0
+alfentanil,Alfentanil,DRUG,1,100.0,1,0,0
+alfuzosinhydrochloride,Alfuzosin Hydrochloride,OTHER,1,76.0,1,0,0
+alkali,Alkali,DRUG,1,156.0,1,0,0
+alln-177highdose,ALLN-177 high dose,DRUG,1,32.0,1,0,0
+alln-177lowdose,ALLN-177 low dose,DRUG,1,32.0,1,0,0
+alln-177middose,ALLN-177 mid dose,DRUG,1,32.0,1,0,0
+allopurinoltablet300mg,Allopurinol Tablet 300 mg,DRUG,1,35.0,1,0,0
+aloevera,Aloe vera,DIETARY_SUPPLEMENT,1,45.0,1,0,0
+aloeverawithcactus,Aloe vera with cactus,DIETARY_SUPPLEMENT,1,45.0,1,0,0
+aminophyllineinstillationandureteraldilatorstogether,Aminophylline instillation and Ureteral dilators together,OTHER,1,129.0,0,1,0
+ampicillin2g,Ampicillin 2g,DRUG,1,330.0,1,0,0
+angiotensinreceptorblockergroup,Angiotensin receptor blocker group,DRUG,1,160.0,1,0,0
+anhydrouscitricacid-11970mgpotassiumbicarbonate-9675mgsodiumcitrateanhydrous-8355mg,"anhydrous citric acid - 1197.0 mg, potassium bicarbonate - 967.5 mg, sodium citrate anhydrous - 835.5 mg",DRUG,1,49.0,1,0,0
+antioxidantgroup,Antioxidant group,DRUG,1,160.0,1,0,0
+asymptomatickidneystonesandureteralstoneremoved,Asymptomatic kidney stones and ureteral stone removed,PROCEDURE,1,75.0,1,0,0
+auricularacupointembedding,Auricular Acupoint Embedding,OTHER,1,116.0,0,1,0
+backstop,BackStop,DEVICE,1,68.0,1,0,0
+bakingsoda,Baking Soda,DIETARY_SUPPLEMENT,1,31.0,1,0,0
+basketextraction,Basket extraction,PROCEDURE,1,168.0,0,1,0
+basketforfragmentremoval,Basket for fragment removal,DEVICE,1,150.0,1,0,0
+bendablesuctionureteralaccesssheath,bendable suction ureteral access sheath,DEVICE,1,172.0,0,1,0
+bilberry,Bilberry,DIETARY_SUPPLEMENT,1,45.0,1,0,0
+bloodandurinesamples,Blood and urine samples,BIOLOGICAL,1,2000.0,0,1,0
+breakwaveextracorporeallithotripsy,Break Wave extracorporeal lithotripsy,DEVICE,1,70.0,0,1,0
+bupivacaine,Bupivacaine,DRUG,1,116.0,0,1,0
+bupivakaindeksametazonadjuvant,Bupivakain + deksametazon Adjuvant,PROCEDURE,1,90.0,1,0,0
+calciumchannelblockers,Calcium Channel Blockers,DRUG,1,160.0,1,0,0
+carbon-13ascorbicacidoralload,Carbon-13 Ascorbic Acid Oral Load,DIETARY_SUPPLEMENT,1,136.0,0,1,0
+chlorthalidone,Chlorthalidone,DRUG,1,80.0,0,1,0
+chlorthalidone,chlorthalidone,DRUG,1,10.0,1,0,0
+chlorthalidone25mg,Chlorthalidone 25mg,DRUG,1,99.0,0,1,0
+cialis5mgtablet,Cialis 5Mg Tablet,DRUG,1,220.0,1,0,0
+cialisflomax,Cialis + Flomax,COMBINATION_PRODUCT,1,220.0,1,0,0
+cinnamon,Cinnamon,DIETARY_SUPPLEMENT,1,45.0,1,0,0
+clearpetraureteralaccesssheath,ClearPetra Ureteral access sheath,DEVICE,1,150.0,0,1,0
+colonizationwithoxalobacterformigenes,Colonization with Oxalobacter formigenes,DIETARY_SUPPLEMENT,1,40.0,0,1,0
+combinedrespiratorysupportcrs,combined respiratory support (CRS),PROCEDURE,1,38.0,1,0,0
+combinedultrasoundguidedswlanddissolutiontherapy,Combined ultrasound guided SWL and dissolution therapy,PROCEDURE,1,150.0,1,0,0
+commercialarvrheadsetwithcalmingapp,Commercial AR/VR Headset with Calming App,DEVICE,1,92.0,0,1,0
+constantenergyswl,Constant Energy SWL,RADIATION,1,150.0,1,0,0
+continousquadratumlumborumblockiii,Continous Quadratum Lumborum Block III,PROCEDURE,1,45.0,1,0,0
+control,Control,DIETARY_SUPPLEMENT,1,22.0,1,0,0
+controlcohort,Control cohort,OTHER,1,24.0,0,1,0
+controlgroup,Control Group,DRUG,1,35.0,1,0,0
+controlgrouproutinenursing,control group (Routine nursing),BEHAVIORAL,1,60.0,1,0,0
+conventionalsuctionureteralaccesssheath,conventional suction ureteral access sheath,DEVICE,1,172.0,0,1,0
+conventionalureteralaccesssheath,Conventional Ureteral Access Sheath,DEVICE,1,50.0,1,0,0
+copeloop,Cope Loop,PROCEDURE,1,59.0,1,0,0
+cranberry,Cranberry,DIETARY_SUPPLEMENT,1,45.0,1,0,0
+ct,CT,DIAGNOSTIC_TEST,1,300.0,1,0,0
+dash-stylediet,DASH-Style Diet,OTHER,1,48.0,0,1,0
+decisionaid,Decision Aid,BEHAVIORAL,1,98.0,1,0,0
+dectdualenergyct,DECT (Dual Energy CT),DEVICE,1,339.0,0,1,0
+delayedureteroscopy,Delayed Ureteroscopy,PROCEDURE,1,96.0,1,0,0
+diagnosticimagingmodalitiesforsuspectedrenalcolic,Diagnostic imaging modalities for suspected renal colic,DEVICE,1,220.0,1,0,0
+diet,diet,BEHAVIORAL,1,48.0,1,0,0
+dietaryrecommendationsdecreasepurinerichdietasredmeatandfishincreasevegetables,"Dietary recommendations (decrease purine rich diet as red meat and fish, increase vegetables)",DIETARY_SUPPLEMENT,1,182.0,1,0,0
+dissolutiontherapy,Dissolution therapy,PROCEDURE,1,150.0,1,0,0
+doublejcatheter,Double J catheter,DEVICE,1,204.0,1,0,0
+doublejstent4frx26cms,Double J Stent 4Fr x26cms,DEVICE,1,110.0,1,0,0
+doublejstent6frx26cms,Double J Stent 6Fr x 26cms,DEVICE,1,110.0,1,0,0
+duallumenureteroscope,Dual Lumen Ureteroscope,DEVICE,1,156.0,1,0,0
+dusting,Dusting,PROCEDURE,1,168.0,0,1,0
+dustingwithmoses20modulation,Dusting with Moses 2.0 Modulation,PROCEDURE,1,150.0,0,1,0
+dustingwithoutmoses20modulation,Dusting without Moses 2.0 Modulation,PROCEDURE,1,150.0,0,1,0
+earlyureteroscopy,Early ureteroscopy,PROCEDURE,1,96.0,1,0,0
+effectivityoftflonlargerenalstone,Effectivity of TFL on large renal stone,DEVICE,1,81.0,1,0,0
+elsenhancedlithotripsysystem,ELS (Enhanced Lithotripsy System),DEVICE,1,101.0,0,1,0
+empagliflozin25mg,Empagliflozin 25 MG,DRUG,1,50.0,1,0,0
+empagliflozinjardiance,Empagliflozin (Jardiance®),DRUG,1,32.0,0,1,0
+empirictherapydiet,Empiric Therapy: Diet,BEHAVIORAL,1,56.0,1,0,0
+empirictherapydrug,Empiric Therapy: Drug,DRUG,1,56.0,1,0,0
+epiduralanesthesia,epidural anesthesia,PROCEDURE,1,50.0,1,0,0
+erectorspinaeplainblock,Erector Spinae Plain Block,PROCEDURE,1,50.0,1,0,0
+erectorspinaeplaneblock,Erector spinae plane block,PROCEDURE,1,56.0,1,0,0
+erectorspinaeplaneblock,erector spinae plane block,PROCEDURE,1,60.0,0,1,0
+erectorspinaeplaneespblock,Erector Spinae Plane (ESP) Block,PROCEDURE,1,70.0,1,0,0
+escalatingenergyswl,Escalating Energy SWL,RADIATION,1,150.0,1,0,0
+eswl,ESWL,PROCEDURE,1,150.0,1,0,0
+eswlwithkidneystonetrackingstorm-track,ESWL with kidney stone tracking (StorM-Track),DEVICE,1,126.0,0,1,0
+evaluateriskofkidneystonesafterbariatricsurgery,Evaluate risk of kidney stones after bariatric surgery,OTHER,1,89.0,1,0,0
+evaluationofkidneystoneriskafterbariatricsurgery,evaluation of kidney stone risk after bariatric surgery,OTHER,1,89.0,1,0,0
+experimentalalpha-blockergroup,Experimental: Alpha-blocker group,DRUG,1,140.0,0,1,0
+experimentalgrouphealtheducationpath,Experimental group （Health education path）,BEHAVIORAL,1,60.0,1,0,0
+extracorporealshockwavelithotripsy,extracorporeal shock wave lithotripsy,DEVICE,1,50.0,1,0,0
+extracorporealshockwavelithotripsy,extracorporeal shockwave lithotripsy,PROCEDURE,1,30.0,1,0,0
+extracorporealshockwavelithotripsycombinedwithtamsulosintherapy,Extracorporeal Shock Wave Lithotripsy combined with Tamsulosin Therapy.,PROCEDURE,1,82.0,1,0,0
+extracorporealshockwavelithotripsyeswl,Extracorporeal Shock Wave Lithotripsy (ESWL),PROCEDURE,1,98.0,0,1,0
+extracorporealshockwavelithotripsyeswl,Extracorporeal shock wave lithotripsy (ESWL),PROCEDURE,1,300.0,1,0,0
+extracorporealshockwavelithotripsyeswl,extracorporeal shock wave lithotripsy (ESWL),PROCEDURE,1,414.0,1,0,0
+extracorporealshockwavelithotripsyswl,extracorporeal shockwave lithotripsy (SWL),PROCEDURE,1,302.0,1,0,0
+f-urs,f-URS,PROCEDURE,1,720.0,1,0,0
+fans-assistedmini-percutaneousnephrolithotomy,FANS-assisted mini-percutaneous nephrolithotomy,PROCEDURE,1,30.0,0,1,0
+fascialstitch,Fascial Stitch,PROCEDURE,1,59.0,1,0,0
+flexibleandnavigablesuctionsheathwithflexibleureteroscopy,flexible and navigable suction sheath with flexible ureteroscopy,DEVICE,1,33.0,0,1,0
+flexibleandnavigablesuctionureteralaccesssheathfans,Flexible and Navigable Suction Ureteral Access Sheath (FANS),DEVICE,1,50.0,1,0,0
+flexibleminipercutaneousnephrolithotomy,flexible mini percutaneous nephrolithotomy,PROCEDURE,1,130.0,1,0,0
+flexibleuerteroscopywithtip-bendablesuctionsheath,Flexible Uerteroscopy with Tip-Bendable Suction Sheath,PROCEDURE,1,120.0,0,1,0
+flexibleureterorenoscopy,Flexible Ureterorenoscopy,PROCEDURE,1,48.0,1,0,0
+flexibleureteroscopewithoutureteralaccesssheath,Flexible ureteroscope without ureteral access sheath,PROCEDURE,1,84.0,1,0,0
+flexibleureteroscopewithureteralaccesssheath,Flexible ureteroscope with ureteral access sheath,PROCEDURE,1,84.0,1,0,0
+flexibleureteroscopiclithotripsy,flexible ureteroscopic lithotripsy,PROCEDURE,1,224.0,0,1,0
+flexibleureteroscopy,Flexible ureteroscopy,PROCEDURE,1,76.0,1,0,0
+flexibleureteroscopy,flexible ureteroscopy,PROCEDURE,1,30.0,1,0,0
+flexibleureteroscopywithfans,Flexible ureteroscopy with FANS,PROCEDURE,1,640.0,0,1,0
+flexibleurs,flexible urs,PROCEDURE,1,50.0,1,0,0
+flomax04mgcapsule,Flomax 0.4Mg Capsule,DRUG,1,220.0,1,0,0
+floseal,Floseal,PROCEDURE,1,59.0,1,0,0
+fluconazole,Fluconazole,DRUG,1,56.0,1,0,0
+fluoroscopicfocusshockwavelithotripsy,fluoroscopic focus Shock wave lithotripsy,PROCEDURE,1,100.0,1,0,0
+foodsupplement,Food supplement,DIETARY_SUPPLEMENT,1,81.0,1,0,0
+furosemide,Furosemide,DRUG,1,2000.0,1,0,0
+furosemide40mg,Furosemide 40 mg,DRUG,1,374.0,0,1,0
+furs,FURS,PROCEDURE,1,80.0,0,1,0
+gatorade,Gatorade,DRUG,1,10.0,1,0,0
+generalanesthesia,general anesthesia,PROCEDURE,1,70.0,1,0,0
+generalorspinalanesthesia,General or spinal anesthesia,PROCEDURE,1,150.0,1,0,0
+geneticanalysis,Genetic analysis,GENETIC,1,196.0,1,0,0
+genetictesting,Genetic testing,DIAGNOSTIC_TEST,1,15.0,0,1,0
+gentamicin5mgkg,"Gentamicin, 5mg/kg",DRUG,1,330.0,1,0,0
+gentamicin80mg48hr,"Gentamicin, 80 mg, 48hr",DRUG,1,330.0,1,0,0
+gentamicin80mg7d,"Gentamicin, 80 mg, 7d",DRUG,1,330.0,1,0,0
+greenteaextract,Green tea extract,DIETARY_SUPPLEMENT,1,45.0,1,0,0
+headphones,Headphones,BEHAVIORAL,1,52.0,1,0,0
+hidratesparkwaterbottle,HidrateSpark Water Bottle,DEVICE,1,85.0,1,0,0
+high-oxalatediet,High-oxalate diet,DIETARY_SUPPLEMENT,1,80.0,0,1,0
+highoxalatediet,High Oxalate Diet,DIETARY_SUPPLEMENT,1,88.0,0,1,0
+holmiumlaser,Holmium laser,DEVICE,1,150.0,1,0,0
+holmiumlaserlithotripsyusingkarlstorzmip,holmium laser lithotripsy using Karl® Storz MIP,PROCEDURE,1,300.0,1,0,0
+holmiumlaserlithotripsyusingkarlstorzmipset,holmium laser lithotripsy using Karl® Storz MIP set,PROCEDURE,1,414.0,1,0,0
+holmiumyaglaser,Holmium Yag laser,DEVICE,1,160.0,1,0,0
+hydrochlorothiazide,Hydrochlorothiazide,DRUG,1,10.0,1,0,0
+hydrochlorothiazide50mg,Hydrochlorothiazide 50Mg,DRUG,1,99.0,0,1,0
+hydrochlorothiazidehctz,Hydrochlorothiazide (HCTZ),DRUG,1,325.0,1,0,0
+hydroxycitratehca,Hydroxycitrate (HCA),DIETARY_SUPPLEMENT,1,18.0,1,0,0
+hypocaloricdiet,Hypocaloric diet,BEHAVIORAL,1,50.0,1,0,0
+indapamide25mg,Indapamide 2.5 MG,DRUG,1,99.0,0,1,0
+infectioncontrol,Infection control,BEHAVIORAL,1,30.0,1,0,0
+inhospitalrecovery,In hospital recovery,PROCEDURE,1,10.0,1,0,0
+intra-venousmorphine,Intra-venous Morphine,PROCEDURE,1,45.0,1,0,0
+intracorporeallithotripsywithouttheuseofananti-retropulsiondevice,Intracorporeal lithotripsy without the use of an anti-retropulsion device,DEVICE,1,68.0,1,0,0
+intrarenalpressuremonitoringvisible,INTRARENAL PRESSURE MONITORING VISIBLE,DEVICE,1,80.0,0,1,0
+intravenouspainmedication,Intravenous pain medication,DRUG,1,150.0,1,0,0
+irp-monitoringflexibleandnavigablesuctionureteralaccesssheathfans,IRP-Monitoring Flexible and Navigable Suction Ureteral Access Sheath (FANS),DEVICE,1,100.0,1,0,0
+isoproterenol,Isoproterenol,DRUG,1,12.0,1,0,0
+kalladaippukudineerkk-,Kalladaippu Kudineer (KK) -,DRUG,1,120.0,1,0,0
+ketorolactrometamol30mg1mlinjection,Ketorolac Trometamol 30Mg/1mL Injection,DRUG,1,36.0,0,1,0
+kidneystoneformers,Kidney stone formers,OTHER,1,24.0,0,1,0
+kidneystoneretrieval,Kidney Stone Retrieval,DEVICE,1,10.0,1,0,0
+kidneystonesnormalcontrolsconsumingaspecialdrinksodiumoxalateduringanalldayvisittotheuniversityofchicagoresearchclinic,Kidney stones Normal controls Consuming a special drink (sodium oxalate) during an all day visit to the University of Chicago research clinic,OTHER,1,50.0,0,1,0
+krogerlowcalorieorangejuicebeverage,Kroger low calorie orange juice beverage,DIETARY_SUPPLEMENT,1,22.0,1,0,0
+lapisjudaicus,Lapis Judaicus,DRUG,1,60.0,1,0,0
+laser,Laser,DEVICE,1,70.0,1,0,0
+laserconfocalmicroscopy,Laser confocal microscopy,DEVICE,1,29.0,1,0,0
+laserlithotripsy,Laser lithotripsy,DEVICE,1,120.0,0,1,0
+laserpowersettingsthuliumfiberlaser,Laser power settings (Thulium Fiber Laser),OTHER,1,150.0,0,1,0
+laughteryoga,Laughter Yoga,OTHER,1,92.0,0,1,0
+lemonsupplementation,Lemon supplementation,DIETARY_SUPPLEMENT,1,203.0,1,0,0
+lidocainegel,"Lidocaine gel,",DRUG,1,135.0,1,0,0
+lidocainegelandnaproxensodium,Lidocaine gel and Naproxen Sodium,DRUG,1,135.0,1,0,0
+lidocaineinfusion,lidocaine infusion,DRUG,1,220.0,0,1,0
+lifestylemodification,Life style modification,BEHAVIORAL,1,182.0,1,0,0
+limepowderregimen,Lime Powder Regimen,DRUG,1,137.0,1,0,0
+litholyte,LithoLyte,DIETARY_SUPPLEMENT,1,31.0,1,0,0
+lithotripsyusingflexibleureteroscope,Lithotripsy using Flexible ureteroscope,PROCEDURE,1,300.0,1,0,0
+lithotripsyusingflexibleureteroscope,lithotripsy using Flexible ureteroscope,PROCEDURE,1,414.0,1,0,0
+lithotripter,Lithotripter,DEVICE,1,150.0,1,0,0
+lithotripter,Lithotripter,PROCEDURE,1,6.0,1,0,0
+lithovuebostonscientificcorporation,LithoVue™ (Boston Scientific Corporation),DEVICE,1,180.0,0,1,0
+lithovueelite,LithoVue Elite,DEVICE,1,150.0,0,1,0
+llx-424,LLX-424,DRUG,1,51.0,1,0,0
+low-oxalatediet,Low-oxalate diet,DIETARY_SUPPLEMENT,1,80.0,0,1,0
+low-oxalatedietandglycolatedosing,Low-oxalate diet and glycolate dosing,DIETARY_SUPPLEMENT,1,80.0,0,1,0
+lowoxalatediet,Low oxalate diet,BEHAVIORAL,1,80.0,0,1,0
+lowoxalatefixeddietspost-colonization,Low oxalate fixed diets post-colonization,DIETARY_SUPPLEMENT,1,40.0,0,1,0
+lowoxalatefixeddietspre-colonization,Low oxalate fixed diets pre-colonization,DIETARY_SUPPLEMENT,1,40.0,0,1,0
+lowsaltdiet,Low salt diet,BEHAVIORAL,1,210.0,1,0,0
+lungcancerscreeninginvitationintervention,Lung Cancer Screening Invitation Intervention,OTHER,1,6272.0,0,1,0
+manualflexibleureteroscopy,Manual Flexible Ureteroscopy,PROCEDURE,1,152.0,0,1,0
+mappingkidneyanatomy,mapping kidney anatomy,OTHER,1,32.0,1,0,0
+marcaineinjectableproduct,Marcaine Injectable Product,DRUG,1,50.0,1,0,0
+methocarbamol,Methocarbamol,DRUG,1,126.0,0,1,0
+micro-pnl,Micro-PNL,PROCEDURE,1,175.0,1,0,0
+microbialtransplanttherapy,Microbial Transplant Therapy,DRUG,1,36.0,0,1,0
+milkthistle,Milk thistle,DIETARY_SUPPLEMENT,1,45.0,1,0,0
+mini-pcnl,Mini-PCNL,PROCEDURE,1,150.0,1,0,0
+mini-pcnlprocedure,mini-PCNL procedure,PROCEDURE,1,60.0,1,0,0
+mini-percutaneousnephrolithotomy,Mini-percutaneous nephrolithotomy,PROCEDURE,1,76.0,1,0,0
+mini-percutaneousnephrolithotomy,mini-percutaneous nephrolithotomy,PROCEDURE,1,120.0,0,1,0
+mini-percutaneousnephrolithotomymini-pcnl,Mini-percutaneous nephrolithotomy (mini-PCNL),PROCEDURE,1,640.0,0,1,0
+mini-pnl,Mini-PNL,PROCEDURE,1,175.0,1,0,0
+miniaturizedpercutaneousnephrolithotomymini-pnl,Miniaturized Percutaneous Nephrolithotomy (mini-PNL),PROCEDURE,1,100.0,1,0,0
+minimalandhighflowanesthesia,minimal and high flow anesthesia,OTHER,1,60.0,1,0,0
+minimallyinvasivepercutaneousnephrolithotomymip,Minimally Invasive Percutaneous Nephrolithotomy (MIP),PROCEDURE,1,75.0,1,0,0
+minipcnl,Mini PCNL,PROCEDURE,1,180.0,1,0,0
+minipercutaneousnephrolithotomy,Mini percutaneous nephrolithotomy,PROCEDURE,1,60.0,1,0,0
+mirabegron,Mirabegron,DRUG,1,22.0,1,0,0
+mirabegron50mg,Mirabegron 50 MG,DRUG,1,42.0,1,0,0
+moderatelyhighoxalatefixeddietspost-colonization,Moderately high oxalate fixed diets post-colonization,DIETARY_SUPPLEMENT,1,40.0,0,1,0
+moderatelyhighoxalatefixeddietspre-colonization,Moderately high oxalate fixed diets pre-colonization,DIETARY_SUPPLEMENT,1,40.0,0,1,0
+modifiedtransperitoneallaparoscopicpyelolithotomy,modified transperitoneal laparoscopic pyelolithotomy,PROCEDURE,1,36.0,1,0,0
+monitoredvitdsupplementation,monitored vit D supplementation,DIETARY_SUPPLEMENT,1,109.0,1,0,0
+morphine,morphine,DRUG,1,55.0,1,0,0
+moses20modulation,Moses 2.0 Modulation,OTHER,1,150.0,0,1,0
+mosesholmiumlaser,MOSES Holmium Laser,DEVICE,1,174.0,0,1,0
+mpcnl,MPCNL,DEVICE,1,70.0,1,0,0
+multifunctionalintegratedflexibleureteroscope,Multifunctional Integrated Flexible Ureteroscope,DEVICE,1,20.0,0,1,0
+multiparameticmri,Multiparametic MRI,DIAGNOSTIC_TEST,1,33.0,1,0,0
+music,Music,OTHER,1,150.0,1,0,0
+musicduringthefirstpartofeswl,Music during the first part of ESWL,OTHER,1,70.0,1,0,0
+musicduringthesecondpartofeswl,Music during the second part of ESWL,OTHER,1,70.0,1,0,0
+nalbuphine,Nalbuphine,DRUG,1,60.0,0,1,0
+naproxensodium,Naproxen Sodium,DRUG,1,135.0,1,0,0
+neorenalforte,Neorenal Forte,DIETARY_SUPPLEMENT,1,120.0,0,1,0
+new0-90fluoroscopicpuncturetechniquesforpercutaneousnephrolithotomy,New 0-90° Fluoroscopic Puncture Techniques for Percutaneous Nephrolithotomy,PROCEDURE,1,60.0,1,0,0
+nitrofurantoin100mg48hrs,"Nitrofurantoin 100 mg, 48 hrs",DRUG,1,330.0,1,0,0
+nitrofurantoin100mg7d,"Nitrofurantoin 100 MG, 7d",DRUG,1,330.0,1,0,0
+nointervention,No Intervention,DRUG,1,80.0,1,0,0
+nointerventionobservationalstudy,No intervention (observational study),DRUG,1,140.0,0,1,0
+non-steroidalanti-inflammatorydrugsnsaids,Non-Steroidal anti-inflammatory drugs (NSAIDS),DRUG,1,116.0,0,1,0
+normalsaline,Normal saline,DRUG,1,36.0,0,1,0
+normalsaline,Normal saline,OTHER,1,116.0,0,1,0
+nostentplacement,No stent placement,OTHER,1,792.0,0,1,0
+occlusionballooncatheter,Occlusion Balloon Catheter,DEVICE,1,108.0,1,0,0
+ohcit-lowdose,OHCit- low dose,DIETARY_SUPPLEMENT,1,25.0,0,1,0
+ohcit-standarddose,OHCit- standard dose,DIETARY_SUPPLEMENT,1,25.0,0,1,0
+oms201,OMS201,DRUG,1,18.0,1,0,0
+oncomfortvirtualrealitymonitoroncomfortsawavrebelgium,"Oncomfort virtual reality monitor (Oncomfort SA, Wavre, Belgium)",DEVICE,1,166.0,1,0,0
+oral13c-ascorbicaciddosing,Oral 13C- ascorbic acid dosing,DIETARY_SUPPLEMENT,1,80.0,0,1,0
+oralalkalinizationpotassiumcitrateallopurinol,"Oral alkalinization (Potassium citrate, Allopurinol)",DRUG,1,182.0,1,0,0
+oraldissolutiontherapy,Oral dissolution therapy,DRUG,1,90.0,1,0,0
+oraldissolutiontherapyextracorporealshockwavelithotripsy,Oral dissolution therapy + extracorporeal shock wave lithotripsy,PROCEDURE,1,90.0,1,0,0
+oralglycolatedosing,Oral glycolate dosing,DIETARY_SUPPLEMENT,1,80.0,0,1,0
+orangesoda,Orange soda,DIETARY_SUPPLEMENT,1,12.0,1,0,0
+ordinarybottleddrinkingwater,ordinary bottled drinking water,OTHER,1,325.0,1,0,0
+outpatientrecovery,Outpatient Recovery,PROCEDURE,1,10.0,1,0,0
+oxybutynin,Oxybutynin,DRUG,1,126.0,0,1,0
+oxycodone,oxycodone,DRUG,1,55.0,1,0,0
+paracetamol,Paracetamol,DRUG,1,1645.0,1,0,0
+paravertebralblock,Paravertebral Block,PROCEDURE,1,50.0,1,0,0
+paravertebralblock,Paravertebral block,PROCEDURE,1,56.0,1,0,0
+paravertebralblock,paravertebral block,PROCEDURE,1,50.0,1,0,0
+passivesuctionviaconventionalsheath,passive suction via conventional sheath,DEVICE,1,90.0,0,1,0
+patienteducationbooklet,Patient Education Booklet,OTHER,1,122.0,1,0,0
+pclunderfluoroscopywiththeaidoftheroboticdevice,PCL under fluoroscopy with the aid of the robotic device,DEVICE,1,5.0,1,0,0
+percussionandpositionchangeinretrogradeintrarenalsurgery,Percussion and position change in retrograde intrarenal surgery,BEHAVIORAL,1,200.0,0,1,0
+percutaneouscalicealdiverticuli,Percutaneous Caliceal Diverticuli,PROCEDURE,1,86.0,1,0,0
+percutaneousnephrolithotomy,Percutaneous Nephrolithotomy,PROCEDURE,1,1980.0,1,0,0
+percutaneousnephrolithotomy,Percutaneous nephrolithotomy,PROCEDURE,1,30.0,1,0,0
+percutaneousnephrolithotomyproneposition,percutaneous nephrolithotomy ( prone position),PROCEDURE,1,70.0,1,0,0
+percutaneousnephrolithotomysupineposition,percutaneous nephrolithotomy (supine position),PROCEDURE,1,70.0,1,0,0
+percutaneousnephrolithotomythroughandthroughguiedwire,Percutaneous nephrolithotomy through and through guiedwire,PROCEDURE,1,106.0,1,0,0
+percutaneousnephrolitotomy,Percutaneous nephrolitotomy,PROCEDURE,1,553.0,1,0,0
+percutaneousnephrostomy,Percutaneous Nephrostomy,DEVICE,1,204.0,1,0,0
+percutanousnephrolithotomypcnl,Percutanous nephrolithotomy (PCNL),PROCEDURE,1,300.0,1,0,0
+performance,Performance,DRUG,1,10.0,1,0,0
+periphericbloodcount,peripheric blood count,DIAGNOSTIC_TEST,1,519.0,1,0,0
+pharmacologicstandardofcarealone,Pharmacologic Standard of Care Alone,OTHER,1,92.0,0,1,0
+pioglitazone,Pioglitazone,DRUG,1,172.0,1,0,0
+pioglitazone45mg,Pioglitazone 45 mg,DRUG,1,29.0,1,0,0
+pioglitazoneweightloss,Pioglitazone + Weight Loss,OTHER,1,29.0,1,0,0
+placebonormalsalineviaanerectorspinaeplaneperineuralcatheter,Placebo normal saline via an erector spinae plane perineural catheter,DRUG,1,50.0,1,0,0
+placebos,Placebos,DRUG,1,1645.0,1,0,0
+placementofureteralstent,Placement of ureteral stent,DEVICE,1,72.0,1,0,0
+pneumaticpercutaneousnephrolithotomy,Pneumatic percutaneous nephrolithotomy,PROCEDURE,1,180.0,1,0,0
+pnl,PNL,PROCEDURE,1,122.0,1,0,0
+post-ureteroscopyadva-tecuriprenedegradabletemporaryureteralstent,Post-Ureteroscopy ADVA-Tec Uriprene™ Degradable Temporary Ureteral Stent,DEVICE,1,8.0,1,0,0
+potassium-sodiumcitrate,Potassium-sodium citrate,DRUG,1,80.0,1,0,0
+potassiumcitrate,Potassium Citrate,DRUG,1,25.0,0,1,0
+potassiumcitrate,potassium citrate,DRUG,1,300.0,1,0,0
+potassiumcitratetablets,Potassium Citrate Tablets,DRUG,1,312.0,0,1,0
+potassiumphosphate,potassium phosphate,DRUG,1,300.0,1,0,0
+pramipexole,Pramipexole,DRUG,1,19.0,1,0,0
+pronepositionpercutaneousnephrolithotomy,Prone Position Percutaneous Nephrolithotomy,PROCEDURE,1,84.0,0,1,0
+reductionenergyswl,Reduction Energy SWL,RADIATION,1,150.0,1,0,0
+remifentanil,Remifentanil,DRUG,1,228.0,2,0,0
+renaldilatationbymetallictelescopicdilatorsalken,renal dilatation by metallic telescopic dilators (Alken).,PROCEDURE,1,60.0,1,0,0
+renaldilatationbyone-shotdilatationtechnique,renal dilatation by one-shot dilatation technique,PROCEDURE,1,60.0,1,0,0
+renaldilatationbysequentialfascialdilatorsamplatz,renal dilatation by sequential fascial dilators (Amplatz),PROCEDURE,1,60.0,1,0,0
+renogram,Renogram,OTHER,1,4.0,1,0,0
+retrogradeintrarenalsurgery,retrograde intrarenal surgery,PROCEDURE,1,182.0,1,0,0
+retrogradeintrarenalsurgeryrirs,Retrograde Intrarenal Surgery (RIRS),PROCEDURE,1,98.0,0,1,0
+retrogradeintrarenalsurgeryrirswithtip-flexiblesuctionaccesssheath,Retrograde Intrarenal Surgery (RIRS) with Tip-Flexible Suction Access Sheath,PROCEDURE,1,308.0,0,1,0
+retrogradeintrarenalsurgeryusingatraditionalureteralaccesssheath,Retrograde intrarenal surgery using a traditional ureteral access sheath,PROCEDURE,1,140.0,1,0,0
+retrogradeintrarenalsurgeryusingaureteralaccesssheathwithsuction,Retrograde intrarenal surgery using a ureteral access sheath with suction,PROCEDURE,1,140.0,1,0,0
+retrogradenormalsalineirrigation,Retrograde normal saline irrigation,BEHAVIORAL,1,200.0,1,0,0
+rigidandflexibleureteroscope,Rigid and flexible ureteroscope,DEVICE,1,150.0,1,0,0
+rirs,RIRS,DEVICE,1,70.0,1,0,0
+rirsprocedure,RIRS procedure,PROCEDURE,1,60.0,1,0,0
+rirswithf-uaslateralposition,"RIRS with f-UAS, lateral position",PROCEDURE,1,120.0,0,1,0
+rirswithf-uaslithotomyposition,"RIRS with f-UAS, lithotomy position",PROCEDURE,1,120.0,0,1,0
+rirswithtraditionaluaslateralposition,"RIRS with traditional UAS, lateral position",PROCEDURE,1,120.0,0,1,0
+rirswithtraditionaluaslithotomyposition,"RIRS with traditional UAS, lithotomy position",PROCEDURE,1,120.0,0,1,0
+robotassistedpyelolithotomy,Robot assisted pyelolithotomy,PROCEDURE,1,40.0,1,0,0
+robotic-assistedflexibleureteroscopy,Robotic-Assisted Flexible Ureteroscopy,PROCEDURE,1,152.0,0,1,0
+ropivacainetqlblock,Ropivacaine TQL block,PROCEDURE,1,60.0,1,0,0
+saline,Saline,DRUG,1,60.0,1,0,0
+salinetqlblock,Saline TQL block,PROCEDURE,1,60.0,1,0,0
+selectivetherapydiet,Selective Therapy: Diet,BEHAVIORAL,1,56.0,1,0,0
+selectivetherapydrug,Selective Therapy: Drug,DRUG,1,56.0,1,0,0
+selfposturotherapie,SELF POSTUROTHERAPIE,BEHAVIORAL,1,216.0,0,1,0
+sequentialteflondilatorusagepriortouretericaccesssheathplacementinflexibleuretroscopy,Sequential teflon dilator usage prior to ureteric access sheath placement in flexible uretroscopy,DEVICE,1,129.0,0,1,0
+shamacupointembedding,Sham Acupoint Embedding,OTHER,1,116.0,0,1,0
+sheathlessretrogradeintrarenalsurgery,Sheathless retrograde intrarenal surgery,PROCEDURE,1,90.0,1,0,0
+shockwavelithotripsy,Shock wave lithotripsy,DEVICE,1,158.0,1,0,0
+shockwavelithotripsy,Shockwave lithotripsy,PROCEDURE,1,60.0,1,0,0
+shockwavelithotripsyswl,Shock Wave Lithotripsy (SWL),PROCEDURE,1,100.0,1,0,0
+silodosin,Silodosin,DRUG,1,100.0,1,0,0
+sindhuvallathymezhugusvm,Sindhuvallathy mezhugu ( SVM),DRUG,1,120.0,1,0,0
+single-useureterorenoscopescivitamedicaltechnologycoltd,"Single-Use Ureterorenoscope (Scivita Medical Technology Co., Ltd.)",DEVICE,1,180.0,0,1,0
+singledosequadratumlumborumblockiii,Single dose Quadratum Lumborum Block III,PROCEDURE,1,45.0,1,0,0
+sodiumbicarbonateoralcapsule,Sodium Bicarbonate Oral Capsule,DRUG,1,312.0,0,1,0
+sodiumthiosulfate,Sodium thiosulfate,DRUG,1,10.0,1,0,0
+soltivepremiumsuperpulsedlaserfibersystem,SOLTIVE™ Premium SuperPulsed Laser Fiber System,DEVICE,1,450.0,1,0,0
+solubleoxalategutabsorptiontest,soluble oxalate gut absorption test,OTHER,1,80.0,0,1,0
+specialdiet,Special diet,OTHER,1,28.0,0,1,0
+speciallow-oxalatedietfollowedbyall-dayvisittouniversityofchicagoresearchclinic,Special low-oxalate diet followed by all-day visit to University of Chicago research clinic,OTHER,1,30.0,0,1,0
+spectralphotoncountingcomputedtomographyspcct,Spectral Photon Counting Computed Tomography (SPCCT),DEVICE,1,339.0,0,1,0
+spinalanalgesiawithmorphineandbupivacaine,spinal analgesia with morphine and bupivacaine,DRUG,1,220.0,0,1,0
+spinalanesthesiamonitoring,spinal anesthesia monitoring,PROCEDURE,1,40.0,1,0,0
+spironolactone,Spironolactone,DRUG,1,10.0,1,0,0
+standardcareafterflexibleureteroscopywithoutfurosemide,Standard Care After Flexible Ureteroscopy Without Furosemide,OTHER,1,2000.0,1,0,0
+standardeswlwithoutstonetrackingstorm-trackdisabled,Standard ESWL without stone tracking (StorM-Track disabled),DEVICE,1,126.0,0,1,0
+standardizededucationalmaterialinformationalpamphlet,Standardized Educational Material (informational pamphlet),OTHER,1,98.0,1,0,0
+standardlithotomyposition,standard lithotomy position,PROCEDURE,1,160.0,0,1,0
+standardofcarestentplacement,Standard of care stent placement,DEVICE,1,792.0,0,1,0
+standardofcareureterorenoscopy,Standard of Care Ureterorenoscopy,PROCEDURE,1,120.0,0,1,0
+standardofcareureterorenoscopywithmedinik,Standard of Care Ureterorenoscopy with MediNiK,PROCEDURE,1,120.0,0,1,0
+standardpercutaneousnephrolithotomy,Standard Percutaneous Nephrolithotomy,PROCEDURE,1,60.0,1,0,0
+standardpercutaneousnephrolithotomy,Standard percutaneous nephrolithotomy,PROCEDURE,1,106.0,1,0,0
+standardpercutaneousnephrolithotomypcnl,Standard Percutaneous Nephrolithotomy (PCNL),PROCEDURE,1,308.0,0,1,0
+standardpercutaneousnephrolithotomyspcnl,Standard Percutaneous Nephrolithotomy (sPCNL),PROCEDURE,1,75.0,1,0,0
+standardpnl,Standard PNL,PROCEDURE,1,175.0,1,0,0
+standardtherapywithibuprofenandoxycodone,Standard therapy with ibuprofen and oxycodone.,DRUG,1,81.0,1,0,0
+standardtubepercutaneousnephrolithotomypcnl,Standard Tube Percutaneous Nephrolithotomy (PCNL),PROCEDURE,1,640.0,1,0,0
+standardvitdsupplementation,standard vit D supplementation,DIETARY_SUPPLEMENT,1,109.0,1,0,0
+steerablefans,Steerable FANS,DEVICE,1,400.0,0,1,0
+stentedswl,Stented SWL,PROCEDURE,1,90.0,1,0,0
+stentinsertion,Stent insertion,DEVICE,1,17.0,1,0,0
+storzflex-xc1disposableflexibleureteroscope,Storz Flex-XC1 Disposable Flexible Ureteroscope,DEVICE,1,6.0,1,0,0
+storzflexibledigitalureteroscope,Storz Flexible Digital Ureteroscope,DEVICE,1,6.0,1,0,0
+storzsinglelumenureteroscope,Storz single Lumen Ureteroscope,DEVICE,1,156.0,1,0,0
+stressballs,Stress balls,BEHAVIORAL,1,52.0,1,0,0
+structurednano-water,structured nano-water,DIETARY_SUPPLEMENT,1,325.0,1,0,0
+subcostaltransversusabdominisplaneblock,Subcostal transversus abdominis plane block,PROCEDURE,1,80.0,1,0,0
+suctionureteralaccesssheathretrogradeintrarenalsurgery,Suction ureteral access sheath retrograde intrarenal surgery,PROCEDURE,1,90.0,1,0,0
+super-minipercutaneousnephrolithotomy,Super-Mini Percutaneous Nephrolithotomy,PROCEDURE,1,160.0,1,0,0
+super-minipercutaneousnephrolithotomy,Super-mini Percutaneous Nephrolithotomy,PROCEDURE,1,72.0,1,0,0
+supineminipercutaneousnephrolithotomy,Supine Mini Percutaneous Nephrolithotomy,PROCEDURE,1,180.0,1,0,0
+supinepositionpercutaneousnephrolithotomygaldakao-modifiedvaldivia,Supine Position Percutaneous Nephrolithotomy (Galdakao-modified Valdivia),PROCEDURE,1,84.0,0,1,0
+surgeoncontroloffluoroscopy,Surgeon control of fluoroscopy,PROCEDURE,1,74.0,1,0,0
+swl,SWL,DEVICE,1,76.0,1,0,0
+swlandodt,SWL and ODT,COMBINATION_PRODUCT,1,76.0,1,0,0
+swlshockwavelithotripsyintervention,SWL: Shock Wave Lithotripsy Intervention,PROCEDURE,1,275.0,1,0,0
+symptomaticstoneremoval,Symptomatic stone removal,PROCEDURE,1,75.0,1,0,0
+t-tiltingofthepatientduringsurgery,T-tilting of the patient during surgery,PROCEDURE,1,160.0,0,1,0
+technologistcontroloffluoroscopy,Technologist control of fluoroscopy,PROCEDURE,1,74.0,1,0,0
+tenapanor,Tenapanor,DRUG,1,18.0,1,0,0
+thet-tiltposition,The T-Tilt position,PROCEDURE,1,128.0,0,1,0
+thoracicepiduralanesthesia,Thoracic epidural anesthesia,PROCEDURE,1,100.0,1,0,0
+thoracicspinalanesthesia,Thoracic spinal anesthesia,PROCEDURE,1,100.0,1,0,0
+thuliopulsedthuliumyagp-tmyag,Thulio pulsed Thulium:YAG (p-Tm:YAG),DEVICE,1,50.0,0,1,0
+thuliumlaserfibertfl,Thulium Laser Fiber (TFL),DEVICE,1,50.0,0,1,0
+tipbendablesuctionureteralaccesssheath,Tip bendable suction ureteral access sheath,PROCEDURE,1,320.0,1,0,0
+traditionaltransperitoneallaparoscopicpyelolithotomy,traditional transperitoneal laparoscopic pyelolithotomy,PROCEDURE,1,36.0,1,0,0
+traditionalureteralaccesssheathretrogradeintrarenalsurgery,Traditional ureteral access sheath retrograde intrarenal surgery,PROCEDURE,1,90.0,1,0,0
+tramadolhcl,Tramadol Hcl,DRUG,1,100.0,1,0,0
+treatment,Treatment,DIETARY_SUPPLEMENT,1,22.0,1,0,0
+trimethoprimsulfamethoxazole,trimethoprim/sulfamethoxazole,DRUG,1,80.0,1,0,0
+tubelesspercutaneousnephrolithotomypcnl,Tubeless Percutaneous Nephrolithotomy (PCNL),PROCEDURE,1,640.0,1,0,0
+turmeric,Turmeric,DIETARY_SUPPLEMENT,1,45.0,1,0,0
+tylenol3,Tylenol #3,DRUG,1,22.0,1,0,0
+ultra-mini-pcnl,Ultra-Mini-PCNL,PROCEDURE,1,90.0,1,0,0
+ultra-minipnl,Ultra-mini PNL,PROCEDURE,1,175.0,1,0,0
+ultra-sonicpercutaneousnephrolithotomy,Ultra-sonic percutaneous nephrolithotomy,PROCEDURE,1,180.0,1,0,0
+ultrasonic,Ultrasonic,DEVICE,1,70.0,1,0,0
+ultrasonicfocusshockwavelithotripsy,ultrasonic focus Shock wave lithotripsy,PROCEDURE,1,100.0,1,0,0
+ultrasound-firstclinicaldecisionsupporttool,Ultrasound-first Clinical Decision Support tool,BEHAVIORAL,1,388.0,1,0,0
+ultrasoundguidedswl,Ultrasound guided SWL,PROCEDURE,1,150.0,1,0,0
+ureteralaccesssheathplacementduringflexibleureteroscopeforrenalstones,Ureteral access sheath placement during flexible ureteroscope for renal stones,PROCEDURE,1,2000.0,0,1,0
+ureteralstent,Ureteral Stent,DEVICE,1,20.0,2,0,0
+uric-acid-loweringdrug,uric-acid-lowering drug,DRUG,1,312.0,0,1,0
+usageofaminophyllinepriortouretericdilatationinflexibleuretroscopy,Usage of Aminophylline prior to ureteric dilatation in Flexible uretroscopy,DRUG,1,129.0,0,1,0
+usingdisposable75frelectronicflexibleureteroscopecombined10frureteralaccesssheathtotreatrenalstone2cm,Using disposable 7.5Fr electronic flexible ureteroscope combined 10Fr ureteral access sheath to treat renal stone <2cm,DEVICE,1,23.0,1,0,0
+ussqquestionnaireadministrationafterrirs,USSQ questionnaire administration after RIRS.,OTHER,1,68.0,1,0,0
+vacuumassistedsheath,vacuum assisted sheath,DEVICE,1,90.0,0,1,0
+vehicle,Vehicle,DRUG,1,18.0,1,0,0
+watertherapyalone,Water therapy alone,BEHAVIORAL,1,210.0,1,0,0
+weightloss,Weight Loss,BEHAVIORAL,1,29.0,1,0,0
+western-stylediet,Western-Style Diet,OTHER,1,48.0,0,1,0
+wisconsinstone-qolsurvey,Wisconsin Stone-QOL survey,OTHER,1,3299.0,1,0,0
+wiscopeotumedicalincsiliconvalleyusa,"WiScope® (OTU Medical Inc. (Silicon Valley, USA))",DEVICE,1,180.0,0,1,0
+withoutretrogradenormalsalineirrigation,Without Retrograde normal saline irrigation,BEHAVIORAL,1,200.0,1,0,0
+x-ray,X-ray,DEVICE,1,150.0,1,0,0
