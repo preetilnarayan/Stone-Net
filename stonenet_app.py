@@ -295,19 +295,11 @@ def compute_attention(path_vecs):
     """Simple dot-product attention → softmax."""
     if not path_vecs:
         return []
-
-    # Remove None values
-    path_vecs = [p for p in path_vecs if p is not None]
-
-    # If nothing valid remains
-    if len(path_vecs) == 0:
-        return [1.0]
-
     if not TORCH_AVAILABLE:
         weights = [random.random() for _ in path_vecs]
         total   = sum(weights)
         return [w / total for w in weights]
-
+ 
     stacked = torch.stack(path_vecs, 0)       # (P, D)
     query   = stacked.mean(0)                 # global mean as query
     scores  = (stacked * query).sum(-1)       # dot product
@@ -381,17 +373,19 @@ def predict_response(drug_name, model, pyg_data, node_index, G,
 def build_subgraph(drug_name, node_index, node_types, G, max_nodes=40):
     """
     Extract a small ego subgraph around the selected drug for visualization.
-    Returns a PyVis HTML string.
+    Returns a PyVis HTML file path (larger, denser, screenshot-friendly).
     """
+
     drug_key = f"drug::{drug_name}"
     if drug_key not in node_index:
         return None
- 
+
     drug_id = node_index[drug_key]
- 
-    # BFS up to depth 2
+
+    # ---- BFS (same logic) ----
     subgraph_nodes = {drug_id}
     frontier = {drug_id}
+
     for _ in range(2):
         new_frontier = set()
         for n in frontier:
@@ -401,39 +395,101 @@ def build_subgraph(drug_name, node_index, node_types, G, max_nodes=40):
         frontier = new_frontier
         if len(subgraph_nodes) > max_nodes:
             break
- 
+
     subgraph_nodes = list(subgraph_nodes)[:max_nodes]
     subG = G.subgraph(subgraph_nodes)
- 
+
+    # ---- Better colors ----
     COLOR_MAP = {
-        "drug":    "#e74c3c",
-        "trial":   "#3498db",
-        "disease": "#2ecc71",
-        "outcome": "#f39c12",
+        "drug":    "#ff6b6b",
+        "trial":   "#4dabf7",
+        "disease": "#51cf66",
+        "outcome": "#fcc419",
     }
- 
-    net = Network(height="500px", width="100%", bgcolor="#1a1a2e",
-                  font_color="white", directed=True)
-    net.barnes_hut()
- 
+
+    # ---- Bigger canvas ----
+    net = Network(
+        height="900px",          # ⬅️ increased
+        width="100%",
+        bgcolor="#161616",
+        font_color="white",
+        directed=True
+    )
+
+    # ---- Tighter layout (KEY FIX) ----
+    net.barnes_hut(
+        gravity=-30000,          # pull nodes closer
+        central_gravity=0.3,
+        spring_length=120,       # shorter edges
+        spring_strength=0.05,
+        damping=0.95
+    )
+
+    # ---- Add nodes (bigger + clearer) ----
     for node in subG.nodes():
         lbl = G.nodes[node]["label"]
         ntype = G.nodes[node]["ntype"]
-        short = lbl.split("::")[-1][:35]
-        color = COLOR_MAP.get(ntype, "#aaaaaa")
-        size  = 25 if node == drug_id else 12
-        net.add_node(node, label=short, color=color, size=size,
-                     title=f"[{ntype}] {lbl.split('::')[-1]}")
- 
+        short = lbl.split("::")[-1][:40]
+
+        color = COLOR_MAP.get(ntype, "#1B1B1B")
+        size = 45 if node == drug_id else 20   # ⬅️ bigger nodes
+
+        net.add_node(
+            node,
+            label=short,
+            color=color,
+            size=size,
+            title=f"[{ntype}] {lbl.split('::')[-1]}"
+        )
+
+    # ---- Add edges (thicker + visible labels) ----
     for src, dst in subG.edges():
         rel = G[src][dst].get("relation", "")
-        net.add_edge(src, dst, label=rel, color="#888888")
- 
-    tmp_dir  = tempfile.gettempdir()
+        net.add_edge(
+            src,
+            dst,
+            label=rel,
+            color="#DDDDDD",
+            width=2              # ⬅️ thicker edges
+        )
+
+    # ---- IMPORTANT: auto-zoom & stabilize ----
+    options = {
+    "physics": {
+        "enabled": True,
+        "stabilization": {
+            "enabled": True,
+            "iterations": 200
+        }
+    },
+    "nodes": {
+        "font": {
+            "size": 8
+        }
+    },
+    "edges": {
+        "font": {
+            "size": 8,
+            "align": "middle"
+        },
+        "smooth": {
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "zoomView": True,
+        "dragView": True
+    }
+}
+
+    net.set_options(json.dumps(options))
+    
+    # ---- Save HTML ----
+    tmp_dir = tempfile.gettempdir()
     tmp_path = os.path.join(tmp_dir, f"stonenet_{drug_name[:20]}.html")
     net.save_graph(tmp_path)
+
     return tmp_path
- 
  
 # ─────────────────────────────────────────────────────────────────────────────
 # STREAMLIT UI
